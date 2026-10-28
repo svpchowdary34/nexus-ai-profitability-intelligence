@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+nexus_*.csv
+nexus_*.md
+.env
